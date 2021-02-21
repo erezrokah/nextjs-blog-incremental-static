@@ -17,7 +17,7 @@
     "remark-html": "^12.0.0"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^2.0.1"
+    "@netlify/plugin-nextjs": "https://github.com/netlify/netlify-plugin-nextjs#feat/use_html_fallback"
   },
   "resolutions": {
     "next-on-netlify": "https://github.com/netlify/next-on-netlify#feat/fallback_to_static_html"
