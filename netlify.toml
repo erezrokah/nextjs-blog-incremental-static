@@ -1,2 +1,5 @@
 [dev]
   framework = "#static"
+
+[[plugins]]
+  package = "./local_plugins/log_functions"
