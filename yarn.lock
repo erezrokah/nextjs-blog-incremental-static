@@ -2758,7 +2758,7 @@ needle@^2.2.1:
 
 "next-on-netlify@https://github.com/netlify/next-on-netlify#feat/fallback_to_static_html":
   version "2.8.7"
-  resolved "https://github.com/netlify/next-on-netlify#9de7963f327ccc25001949d0c1e67b42a46dae8f"
+  resolved "https://github.com/netlify/next-on-netlify#7660758423e4f81dcfbe187e9edc80f31c5b3071"
   dependencies:
     "@sls-next/lambda-at-edge" "^1.5.2"
     chokidar "^3.5.1"
